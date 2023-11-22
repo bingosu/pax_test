@@ -1,0 +1,47 @@
+#created by gcc template
+path=C:\PAXPAY~2\build\gcc410\bin
+
+NAME      = Hello
+VERSION   = "v1.0"
+GCCDIR    = C:\PAXPAY~2\build\gcc410
+GCCBIN    = $(GCCDIR)\bin
+GCCLIB    = -L. -L$(GCCDIR)\lib
+LOCSRC    = 
+LOCOBJ    = C:\Kevin\source\test\Hello\obj_Sxx
+LOCINC    = -I. -IC:\PAXPAY~2\include
+POSLIBDIR = C:\PAXPAY~2\postype\Sxx
+POSLIB    = s80api
+
+ASM       = $(GCCBIN)\arm-elf-gcc -Os -msoft-float -mlittle-endian -ffunction-sections -D_S80_POS $(LOCINC) -c 
+GCC       = $(GCCBIN)\arm-elf-gcc -Os -msoft-float -mlittle-endian -ffunction-sections -D_S80_POS $(LOCINC) -c
+LINK      = $(GCCBIN)\arm-elf-ld -T$(POSLIBDIR)\sldscript_s80 -Map $(LOCOBJ)\$(NAME).map --gc-sections --cref -nostartfiles $(GCCLIB) -L$(POSLIBDIR)
+OBJ       = $(LOCOBJ)\init.o \
+			$(LOCOBJ)\CppInit.o \
+            $(LOCOBJ)\main.o
+
+#  ADS-ROM version
+$(NAME).elf: $(OBJ) C:\Kevin\source\test\Hello\BIN_MA~1
+    $(LINK) -o $(LOCOBJ)\$(NAME).elf $(OBJ) --start-group  -l$(POSLIB) -lc -lgcc --end-group
+	arm-elf-readelf -a $(LOCOBJ)\$(NAME).elf > $(LOCOBJ)\$(NAME).sys
+	arm-elf-objdump -D -S $(LOCOBJ)\$(NAME).elf > $(LOCOBJ)\$(NAME).dasm
+    elftobin $(LOCOBJ)\$(NAME).elf $(LOCOBJ)\$(NAME)($(VERSION)).bin PAX-S80-SAPP
+	
+# ASM file
+$(LOCOBJ)\init.o: "$(POSLIBDIR)\init_s80.s"
+        $(ASM) "$(POSLIBDIR)\init_s80.s" -o "$(LOCOBJ)\init.o"
+
+# init file
+$(LOCOBJ)\CppInit.o: "$(GCCDIR)\lib\CppInit.c"
+        $(GCC) "$(GCCDIR)\lib\CppInit.c" -o "$(LOCOBJ)\CppInit.o"
+		
+#  C files
+$(LOCOBJ)\main.o: "C:\Kevin\source\test\Hello\main.c"
+        $(GCC) "C:\Kevin\source\test\Hello\main.c" -o "$(LOCOBJ)\main.o"
+
+		
+clean:
+	del /q $(LOCOBJ)\*.o
+	del /q $(LOCOBJ)\$(NAME).elf
+	del /q $(LOCOBJ)\$(NAME).dasm
+	del /q $(LOCOBJ)\$(NAME).map
+	del /q $(LOCOBJ)\$(NAME)($(VERSION)).bin

@@ -1,0 +1,1723 @@
+Archive member included because of file (symbol)
+
+C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                              C:\Kevin\source\test\Hello\obj_Sxx\main.o (SystemInit)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+                              C:\Kevin\source\test\Hello\obj_Sxx\main.o (memcmp)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+                              C:\Kevin\source\test\Hello\obj_Sxx\main.o (memcpy)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o) (memset)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+                              C:\Kevin\source\test\Hello\obj_Sxx\main.o (sprintf)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o) (strlen)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o) (_vfprintf_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o) (vsnprintf)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (_wcrtomb_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (_wcsrtombs_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o) (_wctomb_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (__swsetup)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (_dtoa_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (fflush)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (__sinit)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (_free_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (__sfvwrite)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o) (_fwalk)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o) (_impure_ptr)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (localeconv)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o) (__smakebuf)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (_malloc_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (memchr)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o) (memmove)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o) (__malloc_lock)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (_Bfree)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o) (_realloc_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (isinf)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o) (isnan)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o) (_sbrk_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o) (__sclose)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o) (strcmp)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o) (isatty)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o) (_write_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o) (_calloc_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o) (_close_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o) (__errno)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o) (fclose)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o) (_fstat_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o) (_lseek_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o) (_read_r)
+C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o) (errno)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (__udivsi3)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o) (__div0)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (__subdf3)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (__muldf3)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (__gtdf2)
+C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+                              C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o) (__fixdfsi)
+
+Allocating common symbols
+Common symbol       size              file
+
+CallEvent           0x4               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+errno               0x4               C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+CallApp             0x4               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DDR              0x28200000         0x01e00000         w !xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x28200000     0x947c
+                0x28200000                Image_RO_Base = .
+ *(.entry_init)
+ .entry_init    0x28200000       0xd8 C:\Kevin\source\test\Hello\obj_Sxx\init.o
+                0x28200040                g_param
+                0x28200038                g_SWI_NUM
+                0x2820003c                glParam
+                0x282000c0                s_recall
+                0x28200000                __entry
+ *(.text)
+ .text          0x282000d8       0x98 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+                0x282000d8                memcmp
+ .text          0x28200170       0xa0 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+                0x28200170                memcpy
+ .text          0x28200210       0x98 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+                0x28200210                memset
+ .text          0x282002a8       0xdc C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+                0x2820031c                _sprintf_r
+                0x282002a8                sprintf
+ .text          0x28200384       0x90 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+                0x28200384                strlen
+ .text          0x28200414     0x1f20 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                0x28200454                _vfprintf_r
+                0x28202308                vfprintf
+ .text          0x28202334      0x108 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                0x282023bc                vsnprintf
+                0x28202334                _vsnprintf_r
+ .text          0x2820243c       0x80 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+                0x2820243c                _wcrtomb_r
+                0x28202490                wcrtomb
+ .text          0x282024bc      0x178 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                0x282024bc                _wcsrtombs_r
+                0x282025f4                wcsrtombs
+ .text          0x28202634      0x420 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                0x28202634                _wctomb_r
+ .text          0x28202a54       0xfc C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                0x28202a54                __swsetup
+ .text          0x28202b50     0x164c C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                0x28202d54                _dtoa_r
+ .text          0x2820419c       0xe0 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                0x2820419c                fflush
+ .text          0x2820427c      0x27c C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                0x282042e8                __sinit
+                0x282043bc                __sfmoreglue
+                0x282043ac                _cleanup
+                0x282043a0                _cleanup_r
+                0x28204388                __fp_lock_all
+                0x282042d8                __sfp_lock_acquire
+                0x2820440c                __sfp
+                0x282042e4                __sinit_lock_release
+                0x28204370                __fp_unlock_all
+                0x282042dc                __sfp_lock_release
+                0x282042e0                __sinit_lock_acquire
+ .text          0x282044f8      0x39c C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+                0x282045f4                _free_r
+                0x282044f8                _malloc_trim_r
+ .text          0x28204894      0x3f8 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                0x28204894                __sfvwrite
+ .text          0x28204c8c      0x10c C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+                0x28204d14                _fwalk
+                0x28204c8c                _fwalk_reent
+ .text          0x28204d98       0xac C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                0x28204dc4                _setlocale_r
+                0x28204d98                __locale_charset
+                0x28204da8                _localeconv_r
+                0x28204e28                setlocale
+                0x28204db4                localeconv
+ .text          0x28204e44      0x154 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                0x28204e44                __smakebuf
+ .text          0x28204f98      0x770 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                0x28204f98                _malloc_r
+ .text          0x28205708      0x104 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+                0x28205708                memchr
+ .text          0x2820580c       0xfc C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+                0x2820580c                memmove
+ .text          0x28205908        0x8 C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+                0x2820590c                __malloc_unlock
+                0x28205908                __malloc_lock
+ .text          0x28205910      0xbb0 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                0x28205c04                _mprec_log10
+                0x2820592c                _hi0bits
+                0x28205c50                _Balloc
+                0x28205ce8                _d2b
+                0x28206044                _multiply
+                0x28205b8c                _ratio
+                0x282063e0                _s2b
+                0x28206204                _i2b
+                0x28205984                _lo0bits
+                0x28205a18                __mcmp
+                0x282062ec                _pow5mult
+                0x28205a78                _ulp
+                0x28205ad8                _b2d
+                0x28206224                _multadd
+                0x28205e1c                __mdiff
+                0x28205f50                _lshift
+                0x28205910                _Bfree
+ .text          0x282064c0      0x638 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                0x282064c0                _realloc_r
+ .text          0x28206af8       0x3c C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+                0x28206af8                isinf
+ .text          0x28206b34       0x30 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+                0x28206b34                isnan
+ .text          0x28206b64       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+                0x28206b64                _sbrk_r
+ .text          0x28206b9c      0x100 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                0x28206bb0                __sseek
+                0x28206c58                __sread
+                0x28206b9c                __sclose
+                0x28206bf8                __swrite
+ .text          0x28206c9c       0xd0 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+                0x28206c9c                strcmp
+ .text          0x28206d6c      0x708 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                0x28206d9c                _getpid
+                0x28206ef8                initialise_monitor_handles
+                0x28206db8                isatty
+                0x28206e4c                _fstat
+                0x28207350                _open
+                0x28206df8                _sbrk
+                0x28206db4                _raise
+                0x28206fb4                _times
+                0x28207370                _stat
+                0x282073c0                _lseek
+                0x28206da4                _link
+                0x282070cc                _swiwrite
+                0x28206dc0                _rename
+                0x28207108                _swilseek
+                0x28207080                _swiclose
+                0x2820721c                _swiopen
+                0x28206dac                _unlink
+                0x282072c4                _write
+                0x28207038                _kill
+                0x28206ff0                _gettimeofday
+                0x2820740c                _read
+                0x28207060                _exit
+                0x28206dd8                _system
+                0x282073d0                _swiread
+                0x28207340                _close
+ .text          0x28207474       0x40 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+                0x28207474                _write_r
+ .text          0x282074b4       0xa0 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                0x282074b4                _calloc_r
+ .text          0x28207554       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+                0x28207554                _close_r
+ .text          0x2820758c       0x10 C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+                0x2820758c                __errno
+ .text          0x2820759c      0x128 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                0x2820759c                _fclose_r
+                0x282076b0                fclose
+ .text          0x282076c4       0x3c C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+                0x282076c4                _fstat_r
+ .text          0x28207700       0x40 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+                0x28207700                _lseek_r
+ .text          0x28207740       0x40 C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+                0x28207740                _read_r
+ .text          0x28207780      0x110 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+                0x28207780                __udivsi3
+                0x28207780                __aeabi_uidiv
+                0x28207878                __aeabi_uidivmod
+ .text          0x28207890        0x4 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+                0x28207890                __aeabi_ldiv0
+                0x28207890                __div0
+                0x28207890                __aeabi_idiv0
+ .text          0x28207894      0x400 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+                0x28207c28                __floatdidf
+                0x28207ba8                __floatsidf
+                0x28207b80                __aeabi_ui2d
+                0x28207894                __aeabi_drsub
+                0x28207bd4                __extendsfdf2
+                0x282078a0                __adddf3
+                0x28207b80                __floatunsidf
+                0x282078a0                __aeabi_dadd
+                0x28207c14                __aeabi_ul2d
+                0x2820789c                __aeabi_dsub
+                0x28207c14                __floatundidf
+                0x28207ba8                __aeabi_i2d
+                0x28207c28                __aeabi_l2d
+                0x28207bd4                __aeabi_f2d
+                0x2820789c                __subdf3
+ .text          0x28207c94      0x470 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+                0x28207f00                __aeabi_ddiv
+                0x28207c94                __aeabi_dmul
+                0x28207f00                __divdf3
+                0x28207c94                __muldf3
+ .text          0x28208104      0x128 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                0x282081f0                __aeabi_dcmple
+                0x28208114                __cmpdf2
+                0x28208114                __eqdf2
+                0x28208104                __gtdf2
+                0x282081b4                __aeabi_cdcmple
+                0x28208198                __aeabi_cdrcmple
+                0x2820810c                __ltdf2
+                0x282081dc                __aeabi_dcmplt
+                0x2820810c                __ledf2
+                0x28208218                __aeabi_dcmpgt
+                0x28208204                __aeabi_dcmpge
+                0x28208114                __nedf2
+                0x282081c8                __aeabi_dcmpeq
+                0x282081b4                __aeabi_cdcmpeq
+                0x28208104                __gedf2
+ .text          0x2820822c       0x5c C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+                0x2820822c                __fixdfsi
+                0x2820822c                __aeabi_d2iz
+                0x282082a0                . = ALIGN (0x20)
+ *fill*         0x28208288       0x18 00
+ *(.text*)
+ .text.s_ctors  0x282082a0        0x4 C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+                0x282082a0                s_ctors
+ .text.s_dtors  0x282082a4        0x4 C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+                0x282082a4                s_dtors
+ .text.event_main
+                0x282082a8       0x10 C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                0x282082a8                event_main
+ .text.main     0x282082b8      0x12c C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                0x282082b8                main
+ .text.SystemInit
+                0x282083e4       0x4c C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x282083e4                SystemInit
+ .text.CheckIfManageExist
+                0x28208430       0x4c C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x28208430                CheckIfManageExist
+ .text.Beep     0x2820847c       0x3c C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x2820847c                Beep
+ .text.GetTime  0x282084b8       0x44 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x282084b8                GetTime
+ .text.ScrGotoxy
+                0x282084fc       0x54 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x282084fc                ScrGotoxy
+ .text.ScrAttrSet
+                0x28208550       0x64 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x28208550                ScrAttrSet
+ .text.ScrPrint
+                0x282085b4       0xe8 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x282085b4                ScrPrint
+ .text.Lcdprintf
+                0x2820869c       0xc0 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x2820869c                Lcdprintf
+ .text.s_SystemInit
+                0x2820875c       0xc0 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x2820875c                s_SystemInit
+ .text.main_entry
+                0x2820881c       0x8c C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                0x2820881c                main_entry
+ *(.glue_7*)
+ *(.rodata)
+ .rodata        0x282088a8      0x104 C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                0x282088a8                AppInfo
+ .rodata        0x282089ac       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .rodata        0x282089cc        0x4 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                0x282089cc                _global_impure_ptr
+ .rodata        0x282089d0       0x34 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .rodata        0x28208a04      0x124 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                0x28208af4                __mprec_tinytens
+                0x28208a04                __mprec_tens
+                0x28208acc                __mprec_bigtens
+ *(.rodata.str1.4)
+ .rodata.str1.4
+                0x28208b28       0x3f C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                                 0x40 (size before relaxing)
+ *fill*         0x28208b67        0x1 00
+ .rodata.str1.4
+                0x28208b68       0x45 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                 0x48 (size before relaxing)
+ *fill*         0x28208bad        0x3 00
+ .rodata.str1.4
+                0x28208bb0       0x63 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                 0x64 (size before relaxing)
+ *fill*         0x28208c13        0x1 00
+ .rodata.str1.4
+                0x28208c14       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                                 0x20 (size before relaxing)
+ *fill*         0x28208c32        0x2 00
+ .rodata.str1.4
+                0x28208c34       0x10 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x28208c44        0x2 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x28208c46        0x2 00
+ .rodata.str1.4
+                0x28208c48        0xb C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                 0x18 (size before relaxing)
+ *fill*         0x28208c53        0x1 00
+ .rodata.str1.4
+                0x28208c54        0x4 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                0x28208c58                . = ALIGN (0x4)
+                0x28208c58                Image_RO_Limit = .
+                0x28208c58                Image_RW_Base = .
+ *(.data)
+ .data          0x28208c58      0x404 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                0x28208c58                _impure_ptr
+ .data          0x2820905c       0x10 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                0x2820905c                __mb_cur_max
+                0x28209060                __lc_ctype
+ .data          0x2820906c      0x410 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                0x28209478                __malloc_sbrk_base
+                0x2820906c                __malloc_av_
+                0x28209474                __malloc_trim_threshold
+                0x2820947c                . = ALIGN (0x4)
+                0x2820947c                Image_RW_Limit = .
+
+.ctors          0x00000000        0x0
+                0x00000000                __CTOR_LIST__ = .
+ *(.ctors)
+                0x00000000                __CTOR_END__ = .
+
+.dtors          0x00000000        0x0
+                0x00000000                __DTOR_LIST__ = .
+ *(.dtors)
+                0x00000000                __DTOR_END__ = .
+
+.bss            0x2820947c       0xec
+                0x2820947c                Image_ZI_Base = .
+                0x2820947c                _bss_start = .
+ *(.bss)
+ .bss           0x2820947c        0x4 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ .bss           0x28209480       0x34 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                0x28209480                __malloc_top_pad
+                0x28209484                __malloc_max_sbrked_mem
+                0x2820948c                __malloc_current_mallinfo
+                0x28209488                __malloc_max_total_mem
+ .bss           0x282094b4       0xb0 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ *(COMMON)
+ COMMON         0x28209564        0x4 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                0x28209564                errno
+                0x28209568                . = ALIGN (0x4)
+ *(Heap)
+                0x28209568                . = ALIGN (0x4)
+                0x28209568                end = .
+                0x28209568                _end = .
+                0x28209568                Image_ZI_Limit = .
+LOAD C:\Kevin\source\test\Hello\obj_Sxx\init.o
+LOAD C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+LOAD C:\Kevin\source\test\Hello\obj_Sxx\main.o
+START GROUP
+LOAD C:\PAXPAY~2\postype\Sxx/libs80api.a
+LOAD C:\PAXPAY~2\build\gcc410\lib/libc.a
+LOAD C:\PAXPAY~2\build\gcc410\lib/libgcc.a
+END GROUP
+OUTPUT(C:\Kevin\source\test\Hello\obj_Sxx\Hello.elf elf32-littlearm)
+
+.comment        0x00000000      0x306
+ .comment       0x00000000       0x12 C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+ .comment       0x00000012       0x12 C:\Kevin\source\test\Hello\obj_Sxx\main.o
+ .comment       0x00000024       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .comment       0x00000036       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .comment       0x00000048       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .comment       0x0000005a       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .comment       0x0000006c       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .comment       0x0000007e       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .comment       0x00000090       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .comment       0x000000a2       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .comment       0x000000b4       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .comment       0x000000c6       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .comment       0x000000d8       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .comment       0x000000ea       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .comment       0x000000fc       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .comment       0x0000010e       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .comment       0x00000120       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .comment       0x00000132       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .comment       0x00000144       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .comment       0x00000156       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+ .comment       0x00000168       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .comment       0x0000017a       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .comment       0x0000018c       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .comment       0x0000019e       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .comment       0x000001b0       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .comment       0x000001c2       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .comment       0x000001d4       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .comment       0x000001e6       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .comment       0x000001f8       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .comment       0x0000020a       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .comment       0x0000021c       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .comment       0x0000022e       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .comment       0x00000240       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .comment       0x00000252       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .comment       0x00000264       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .comment       0x00000276       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .comment       0x00000288       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .comment       0x0000029a       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .comment       0x000002ac       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .comment       0x000002be       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .comment       0x000002d0       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .comment       0x000002e2       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .comment       0x000002f4       0x12 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+
+.debug_abbrev   0x00000000     0x40dd
+ .debug_abbrev  0x00000000       0x7c C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_abbrev  0x0000007c       0xa6 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_abbrev  0x00000122       0xa9 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_abbrev  0x000001cb      0x1af C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_abbrev  0x0000037a       0x8b C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_abbrev  0x00000405      0x367 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_abbrev  0x0000076c      0x18e C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_abbrev  0x000008fa      0x18e C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_abbrev  0x00000a88      0x1a4 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_abbrev  0x00000c2c      0x1ab C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_abbrev  0x00000dd7      0x170 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_abbrev  0x00000f47      0x223 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_abbrev  0x0000116a      0x17f C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_abbrev  0x000012e9      0x24c C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_abbrev  0x00001535      0x1e8 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_abbrev  0x0000171d      0x1b4 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_abbrev  0x000018d1      0x1ee C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_abbrev  0x00001abf      0x157 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+ .debug_abbrev  0x00001c16      0x1de C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_abbrev  0x00001df4      0x1a8 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_abbrev  0x00001f9c      0x225 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_abbrev  0x000021c1       0xb5 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_abbrev  0x00002276       0x99 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_abbrev  0x0000230f      0x16a C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_abbrev  0x00002479      0x280 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_abbrev  0x000026f9      0x1c3 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_abbrev  0x000028bc       0xd4 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_abbrev  0x00002990       0xd4 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_abbrev  0x00002a64      0x18c C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_abbrev  0x00002bf0      0x1b4 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_abbrev  0x00002da4       0x71 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_abbrev  0x00002e15      0x407 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_abbrev  0x0000321c      0x184 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_abbrev  0x000033a0      0x1be C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_abbrev  0x0000355e      0x17f C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_abbrev  0x000036dd      0x15f C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_abbrev  0x0000383c      0x1a7 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_abbrev  0x000039e3      0x18e C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_abbrev  0x00003b71      0x18c C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_abbrev  0x00003cfd      0x17f C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_abbrev  0x00003e7c      0x1e9 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+ .debug_abbrev  0x00004065       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00004079       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000408d       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+ .debug_abbrev  0x000040a1       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+ .debug_abbrev  0x000040b5       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+ .debug_abbrev  0x000040c9       0x14 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+
+.debug_info     0x00000000    0x170dd
+ .debug_info    0x00000000      0x110 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_info    0x00000110      0x10a C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_info    0x0000021a      0x10e C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_info    0x00000328      0xa00 C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_info    0x00000d28       0xd4 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_info    0x00000dfc     0x10ee C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_info    0x00001eea      0xa20 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_info    0x0000290a      0x9ef C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_info    0x000032f9      0xa84 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_info    0x00003d7d      0x9f7 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_info    0x00004774      0x93a C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_info    0x000050ae      0xd61 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_info    0x00005e0f      0x974 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_info    0x00006783      0xb61 C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_info    0x000072e4      0xbb1 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_info    0x00007e95      0xa5f C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_info    0x000088f4      0xad9 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_info    0x000093cd      0x922 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+ .debug_info    0x00009cef      0xb7e C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_info    0x0000a86d      0xad9 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_info    0x0000b346      0xcba C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_info    0x0000c000      0x133 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_info    0x0000c133      0x13f C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_info    0x0000c272      0x93c C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_info    0x0000cbae     0x1319 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_info    0x0000dec7      0xbc7 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_info    0x0000ea8e      0x153 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_info    0x0000ebe1      0x151 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_info    0x0000ed32      0x94e C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_info    0x0000f680      0xa70 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_info    0x000100f0       0xd8 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_info    0x000101c8     0x159c C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_info    0x00011764      0x981 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_info    0x000120e5      0xa01 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_info    0x00012ae6      0x946 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_info    0x0001342c      0x913 C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_info    0x00013d3f      0x980 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_info    0x000146bf      0xabe C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_info    0x0001517d      0x96b C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_info    0x00015ae8      0x97a C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_info    0x00016462      0xa03 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+ .debug_info    0x00016e65       0x6a C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+ .debug_info    0x00016ecf       0x6a C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00016f39       0x69 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+ .debug_info    0x00016fa2       0x69 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+ .debug_info    0x0001700b       0x69 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+ .debug_info    0x00017074       0x69 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+
+.debug_line     0x00000000     0x41ca
+ .debug_line    0x00000000       0xc1 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_line    0x000000c1       0xc5 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_line    0x00000186       0xcd C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_line    0x00000253      0x16e C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_line    0x000003c1       0xa9 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_line    0x0000046a      0x529 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_line    0x00000993      0x161 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_line    0x00000af4      0x144 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_line    0x00000c38      0x16a C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_line    0x00000da2      0x1f4 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_line    0x00000f96      0x142 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_line    0x000010d8      0x446 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_line    0x0000151e      0x145 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_line    0x00001663      0x1be C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_line    0x00001821      0x1a5 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_line    0x000019c6      0x1dd C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_line    0x00001ba3      0x145 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_line    0x00001ce8       0xdd C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+ .debug_line    0x00001dc5      0x147 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_line    0x00001f0c      0x16f C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_line    0x0000207b      0x226 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_line    0x000022a1       0xda C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_line    0x0000237b       0xd5 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_line    0x00002450       0xef C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_line    0x0000253f      0x3e1 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_line    0x00002920      0x1be C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_line    0x00002ade       0xed C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_line    0x00002bcb       0xea C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_line    0x00002cb5       0xf2 C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_line    0x00002da7      0x163 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_line    0x00002f0a       0x7e C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_line    0x00002f88      0x2da C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_line    0x00003262       0xf3 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_line    0x00003355       0xfb C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_line    0x00003450       0xf3 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_line    0x00003543       0xec C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_line    0x0000362f      0x144 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_line    0x00003773      0x13c C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_line    0x000038af       0xf3 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_line    0x000039a2       0xf2 C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_line    0x00003a94      0x120 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+ .debug_line    0x00003bb4       0x86 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+ .debug_line    0x00003c3a       0x5a C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00003c94      0x1e5 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+ .debug_line    0x00003e79      0x1f6 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+ .debug_line    0x0000406f       0xec C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+ .debug_line    0x0000415b       0x6f C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+
+.debug_frame    0x00000000      0xe78
+ .debug_frame   0x00000000       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_frame   0x00000028       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_frame   0x00000050       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_frame   0x00000070       0x5c C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_frame   0x000000cc       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_frame   0x000000ec       0x6c C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_frame   0x00000158       0x48 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_frame   0x000001a0       0x44 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_frame   0x000001e4       0x54 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_frame   0x00000238       0x30 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_frame   0x00000268       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_frame   0x00000294       0x60 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_frame   0x000002f4       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_frame   0x00000320      0x114 C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_frame   0x00000434       0x54 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_frame   0x00000488       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_frame   0x000004c0       0x58 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_frame   0x00000518       0x6c C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_frame   0x00000584       0x30 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_frame   0x000005b4       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_frame   0x000005ec       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_frame   0x00000614       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_frame   0x0000063c       0x30 C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_frame   0x0000066c      0x1f0 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_frame   0x0000085c       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_frame   0x00000894       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_frame   0x000008bc       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_frame   0x000008e4       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_frame   0x00000910       0x70 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_frame   0x00000980       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_frame   0x000009a0      0x2e8 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_frame   0x00000c88       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_frame   0x00000cb4       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_frame   0x00000cdc       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_frame   0x00000d08       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_frame   0x00000d28       0x3c C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_frame   0x00000d64       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_frame   0x00000d90       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_frame   0x00000dbc       0x2c C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_frame   0x00000de8       0x68 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+ .debug_frame   0x00000e50       0x28 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+
+.debug_loc      0x00000000     0x7fdf
+ .debug_loc     0x00000000      0x15f C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_loc     0x0000015f       0xdb C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_loc     0x0000023a       0xa9 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_loc     0x000002e3       0xfd C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_loc     0x000003e0       0x47 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_loc     0x00000427     0x1b8d C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_loc     0x00001fb4      0x1b6 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_loc     0x0000216a      0x145 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_loc     0x000022af      0x2b2 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_loc     0x00002561      0x248 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_loc     0x000027a9       0x3d C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_loc     0x000027e6     0x1665 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_loc     0x00003e4b       0xad C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_loc     0x00003ef8      0x20c C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_loc     0x00004104      0x38f C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_loc     0x00004493      0x328 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_loc     0x000047bb      0x17b C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_loc     0x00004936       0xe9 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_loc     0x00004a1f       0xa7 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_loc     0x00004ac6      0x795 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_loc     0x0000525b      0x193 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_loc     0x000053ee      0x151 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_loc     0x0000553f      0xffc C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_loc     0x0000653b      0x922 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_loc     0x00006e5d       0x6d C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_loc     0x00006eca       0x4f C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_loc     0x00006f19       0x50 C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_loc     0x00006f69      0x1a4 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_loc     0x0000710d       0xaf C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_loc     0x000071bc      0x894 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_loc     0x00007a50       0xaa C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_loc     0x00007afa       0xd6 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_loc     0x00007bd0       0x63 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_loc     0x00007c33       0xa2 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_loc     0x00007cd5       0x81 C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_loc     0x00007d56       0x97 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_loc     0x00007ded       0xaa C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_loc     0x00007e97      0x148 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+
+.debug_pubnames
+                0x00000000      0xa2a
+ .debug_pubnames
+                0x00000000       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_pubnames
+                0x0000001d       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_pubnames
+                0x0000003a       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_pubnames
+                0x00000057       0x2d C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_pubnames
+                0x00000084       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_pubnames
+                0x000000a1       0x2f C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_pubnames
+                0x000000d0       0x31 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_pubnames
+                0x00000101       0x2d C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_pubnames
+                0x0000012e       0x31 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_pubnames
+                0x0000015f       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_pubnames
+                0x0000017f       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_pubnames
+                0x0000019f       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_pubnames
+                0x000001bd       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_pubnames
+                0x000001da       0xdb C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_pubnames
+                0x000002b5       0x31 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_pubnames
+                0x000002e6       0x21 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_pubnames
+                0x00000307       0x2e C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_pubnames
+                0x00000335       0x39 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+ .debug_pubnames
+                0x0000036e       0xc3 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_pubnames
+                0x00000431       0x21 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_pubnames
+                0x00000452       0xce C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_pubnames
+                0x00000520       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_pubnames
+                0x0000053d       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_pubnames
+                0x0000055b       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_pubnames
+                0x00000593      0x112 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_pubnames
+                0x000006a5       0x21 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_pubnames
+                0x000006c6       0x1c C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_pubnames
+                0x000006e2       0x1c C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_pubnames
+                0x000006fe       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_pubnames
+                0x0000071c       0x44 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_pubnames
+                0x00000760       0x1d C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_pubnames
+                0x0000077d      0x158 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_pubnames
+                0x000008d5       0x1f C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_pubnames
+                0x000008f4       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_pubnames
+                0x00000914       0x1f C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_pubnames
+                0x00000933       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_pubnames
+                0x00000951       0x2b C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_pubnames
+                0x0000097c       0x1f C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_pubnames
+                0x0000099b       0x1f C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_pubnames
+                0x000009ba       0x1e C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_pubnames
+                0x000009d8       0x52 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+
+.debug_aranges  0x00000000      0x5c0
+ .debug_aranges
+                0x00000000       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+ .debug_aranges
+                0x00000020       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+ .debug_aranges
+                0x00000040       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+ .debug_aranges
+                0x00000060       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+ .debug_aranges
+                0x00000080       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+ .debug_aranges
+                0x000000a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_aranges
+                0x000000c0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+ .debug_aranges
+                0x000000e0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+ .debug_aranges
+                0x00000100       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_aranges
+                0x00000120       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_aranges
+                0x00000140       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+ .debug_aranges
+                0x00000160       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+ .debug_aranges
+                0x00000180       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+ .debug_aranges
+                0x000001a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+ .debug_aranges
+                0x000001c0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+ .debug_aranges
+                0x000001e0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_aranges
+                0x00000200       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_aranges
+                0x00000220       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+ .debug_aranges
+                0x00000240       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+ .debug_aranges
+                0x00000260       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_aranges
+                0x00000280       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+ .debug_aranges
+                0x000002a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+ .debug_aranges
+                0x000002c0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+ .debug_aranges
+                0x000002e0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+ .debug_aranges
+                0x00000300       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_aranges
+                0x00000320       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+ .debug_aranges
+                0x00000340       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+ .debug_aranges
+                0x00000360       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+ .debug_aranges
+                0x00000380       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+ .debug_aranges
+                0x000003a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+ .debug_aranges
+                0x000003c0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_aranges
+                0x000003e0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+ .debug_aranges
+                0x00000400       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+ .debug_aranges
+                0x00000420       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+ .debug_aranges
+                0x00000440       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+ .debug_aranges
+                0x00000460       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+ .debug_aranges
+                0x00000480       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+ .debug_aranges
+                0x000004a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+ .debug_aranges
+                0x000004c0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+ .debug_aranges
+                0x000004e0       0x20 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+ .debug_aranges
+                0x00000500       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000520       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000540       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+ .debug_aranges
+                0x00000560       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+ .debug_aranges
+                0x00000580       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+ .debug_aranges
+                0x000005a0       0x20 C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+
+.debug_str      0x00000000     0x1aa5
+ .debug_str     0x00000000       0xcb C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+                                 0xff (size before relaxing)
+ .debug_str     0x000000cb       0x67 C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+                                 0xc9 (size before relaxing)
+ .debug_str     0x00000132       0x54 C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+                                0x113 (size before relaxing)
+ .debug_str     0x00000186      0x3c6 C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+                                0x4cc (size before relaxing)
+ .debug_str     0x0000054c       0x46 C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+                                0x112 (size before relaxing)
+ .debug_str     0x00000592      0x1bf C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                0x69d (size before relaxing)
+ .debug_str     0x00000751       0x52 C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                                0x4de (size before relaxing)
+ .debug_str     0x000007a3       0x83 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+                                0x4d2 (size before relaxing)
+ .debug_str     0x00000826       0x63 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                                0x4e7 (size before relaxing)
+ .debug_str     0x00000889       0x62 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                                0x4c7 (size before relaxing)
+ .debug_str     0x000008eb       0x42 C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                                0x4ab (size before relaxing)
+ .debug_str     0x0000092d      0x100 C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                0x5a2 (size before relaxing)
+ .debug_str     0x00000a2d       0x52 C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                                0x4bb (size before relaxing)
+ .debug_str     0x00000a7f      0x100 C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                0x595 (size before relaxing)
+ .debug_str     0x00000b7f      0x159 C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+                                0x5e4 (size before relaxing)
+ .debug_str     0x00000cd8       0x5a C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                0x506 (size before relaxing)
+ .debug_str     0x00000d32       0x5c C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+                                0x4d6 (size before relaxing)
+ .debug_str     0x00000d8e       0x72 C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                                0x4af (size before relaxing)
+ .debug_str     0x00000e00      0x1bb C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                0x63e (size before relaxing)
+ .debug_str     0x00000fbb      0x112 C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                                0x592 (size before relaxing)
+ .debug_str     0x000010cd       0xe9 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                0x692 (size before relaxing)
+ .debug_str     0x000011b6       0x53 C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+                                0x120 (size before relaxing)
+ .debug_str     0x00001209       0x4b C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+                                0x132 (size before relaxing)
+ .debug_str     0x00001254       0x6b C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+                                0x4b8 (size before relaxing)
+ .debug_str     0x000012bf       0xd1 C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                0x58a (size before relaxing)
+ .debug_str     0x00001390       0x61 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                0x564 (size before relaxing)
+ .debug_str     0x000013f1       0x97 C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+                                0x156 (size before relaxing)
+ .debug_str     0x00001488       0x3e C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+                                0x156 (size before relaxing)
+ .debug_str     0x000014c6       0x4e C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+                                0x4ac (size before relaxing)
+ .debug_str     0x00001514       0x67 C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                0x4de (size before relaxing)
+ .debug_str     0x0000157b       0x40 C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+                                 0xf8 (size before relaxing)
+ .debug_str     0x000015bb      0x258 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                0x79f (size before relaxing)
+ .debug_str     0x00001813       0x4a C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+                                0x4af (size before relaxing)
+ .debug_str     0x0000185d       0x19 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                                0x4e3 (size before relaxing)
+ .debug_str     0x00001876       0x41 C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+                                0x49f (size before relaxing)
+ .debug_str     0x000018b7       0x6d C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+                                0x497 (size before relaxing)
+ .debug_str     0x00001924       0x49 C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                0x4b7 (size before relaxing)
+ .debug_str     0x0000196d       0x47 C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+                                0x573 (size before relaxing)
+ .debug_str     0x000019b4       0x41 C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+                                0x4ad (size before relaxing)
+ .debug_str     0x000019f5       0x3f C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+                                0x4ad (size before relaxing)
+ .debug_str     0x00001a34       0x71 C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                                0x4d4 (size before relaxing)
+
+.debug_ranges   0x00000000      0x4d0
+ .debug_ranges  0x00000000      0x150 C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+ .debug_ranges  0x00000150       0x28 C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+ .debug_ranges  0x00000178       0x48 C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+ .debug_ranges  0x000001c0       0x18 C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+ .debug_ranges  0x000001d8       0x40 C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+ .debug_ranges  0x00000218       0x50 C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+ .debug_ranges  0x00000268      0x118 C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+ .debug_ranges  0x00000380      0x118 C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+ .debug_ranges  0x00000498       0x38 C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+
+Cross Reference Table
+
+Symbol                                            File
+AppInfo                                           C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\init.o
+AutoPowerSave                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BatteryCheck                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Beef                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Beep                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BeepF                                             C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtClose                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtConnect                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtCtrl                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtDisconnect                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtGetConfig                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtGetStatus                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtOpen                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtScan                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+BtSetConfig                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdBgClrGif                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdBgDrawBox                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdBgDrawGif                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdClrLine                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdClrRect                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdDrawPixel                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdDrawRect                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdGetInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdGetPixel                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdPrint                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdSetBgColor                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdSetFgColor                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdTextOut                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CLcdWriteBitmap                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CallApp                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CallEvent                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+CheckIfManageExist                                C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DelAppFile                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DelFontFile                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DelayMs                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DelayMs_P80                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DhcpCheck                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DhcpSetDns                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DhcpStart                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DhcpStop                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DnsResolve                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DnsResolveExt                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DoEvent                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+DoEventFast                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EXReadSN                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EnableSwitch                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EnumBaseFont                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EnumFont                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EraseSN                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EthGet                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EthGetFirstRouteMac                               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EthMacGet                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EthSet                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+EthSetRateDuplexMode                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToApp                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToDriver                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToFont                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToMonitor                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToParam                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FileToPuk                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FirmwareEntry                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsClose                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsDelete                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsDirRead                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsDirSeek                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsFileRead                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsFileSeek                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsFileTell                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsFileTruncate                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsFileWrite                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsGetDiskInfo                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsGetInfo                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsGetWorkDir                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsOpen                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsRecycle                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsRename                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsSetWorkDir                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+FsUdiskIn                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetCurScrFont                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetEnv                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetFileInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetHardwareConfig                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetLastError                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetLeanAngle                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetString                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetStringFormat                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetStringResult                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetTermInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetTermInfoExt                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetTime                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+GetTimerCount                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GetVolt                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GpsClose                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GpsOpen                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+GpsRead                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+HangOff                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+IccAutoResp                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+IccClose                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+IccDetect                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+IccInit                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+IccIsoCommand                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Image_RO_Base                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Image_ZI_Base                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Image_ZI_Limit                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+KbCheck                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+KbLock                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+KbReleased                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+KillTimerEvent                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Lcdprintf                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+LedDisplay                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+M1Authority                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+M1Operate                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+M1ReadBlock                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+M1WriteBlock                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+MagClose                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+MagOpen                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+MagRead                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+MagReset                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+MagSwiped                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_C4_Read                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_C4_Write                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_C8_Read                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_C8_Write                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Clk                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Clk_Enable                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Io_Dir                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Io_Read                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Io_Write                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Reset                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Mc_Vcc                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemAsyncGet                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemCheck                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemDial                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemExCommand                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemReset                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemRxd                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ModemTxd                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetAccept                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetAddStaticArp                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetBind                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetCloseSocket                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetConnect                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetDevGet                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetListen                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetPing                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetRecv                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetRecvfrom                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetSend                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetSendto                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetSetIcmp                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+NetSocket                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Netioctl                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+OnBase                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+OnHook                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PPPCheck                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PPPLogin                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PPPLogout                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PciGetRandom                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedCalcAes                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedCalcDES                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedCmd                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedDukptDes                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedDukptIncreaseKsn                               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedErase                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGenSM2KeyPair                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetDukptKSN                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetKcv                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetMac                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetMacDukpt                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetMacSM                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetPinBlock                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetPinBlockSM4                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetPinDukpt                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedGetVer                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedIdKeyCalc                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedReGenPinBlock                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedReadRsaKey                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedRsaRecover                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSM2Recover                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSM2Sign                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSM2Verify                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSM3                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSM4                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSetFunctionKey                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSetIntervaltime                                C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSetKeyTag                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedSetOfflinePinMode                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedVerifyCipherPin                                C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedVerifyPlainPin                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteAesKey                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteKey                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteKeyEncByRsa                               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteKeyVar                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteRsaKey                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteSM2Key                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PedWriteTIK                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccClose                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccCmdExchange                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccDetect                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccInitFelica                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccIsoCommand                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccLight                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccManageReg                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccOpen                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccRemove                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PiccSetup                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortClose                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortOpen                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortPeep                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortRecv                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortRecvs                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortReset                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortSend                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortSends                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PortTxPoolCheck                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PowerOff                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PowerSave                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PppoeCheck                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PppoeLogin                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PppoeLogout                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnAttrSet                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnDoubleHeight                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnDoubleWidth                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnFontSet                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnGetDotLine                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnGetFontDot                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnImage                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnInit                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnLeftIndent                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnLogo                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnPreFeedSet                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnSelectFont                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnSetGray                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnSpaceSet                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnStart                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnStatus                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnStep                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnStr                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PrnTemperature                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ProTimsEntry                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+PutEnv                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+RS485AttrSet                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadAppInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadAppState                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadCSN                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadDllVer                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadFontLib                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadSN                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadTUSN                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ReadVerInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Read_CardSlotInfo                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Reboot                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+RemoteLoadApp                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+RouteGetDefault                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+RouteSetDefault                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+RunApp                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScanClose                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScanOpen                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScanRead                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrAttrSet                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+ScrBackLight                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrClrLine                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrClrRect                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrCls                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrDrLogo                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrDrLogoxy                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrDrawBox                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrDrawRect                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrFontSet                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrGetLcdSize                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrGetxyEx                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrGotoxy                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+ScrGotoxyEx                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrGray                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrPlot                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrPrint                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrRestore                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrSelectFont                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrSetEcho                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrSetIcon                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrSetOutput                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrSpaceSet                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+ScrTextOut                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetAppActive                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetHeartBeat                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetLightTime                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetOffBaseProc                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetSlipFW                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetTime                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetTimerEvent                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SetWakeupChannel                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SockAddrGet                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SockAddrSet                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SoundPlay                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SslDelCerPrivkey                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SslSaveCerPrivkey                                 C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SysConfig                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SysIdle                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SysSleep                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+SystemInit                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+TelCheck                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TelDial                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TelOffHook                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TelSetPara                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TimerCheck                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TimerSet                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenAttrSet                                C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenCalibration                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenClose                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenFlush                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenOpen                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+TouchScreenRead                                   C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiCheck                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiClose                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiConnect                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiCtrl                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiDisconnect                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiOpen                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiScan                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WifiScanEx                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlAutoCheck                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlAutoStart                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlClosePort                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlGetSignal                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlInit                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlOpenPort                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlPppCheck                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlPppLogin                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlPppLoginEx                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlPppLogout                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlSelSim                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlSendCmd                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlSetDns                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlSetTcpDetect                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlSwitchPower                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+WlTcpRetryNum                                     C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+Write_CardSlotInfo                                C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+_Balloc                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_Bfree                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_PathLocale                                       C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+__adddf3                                          C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__aeabi_cdcmpeq                                   C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_cdcmple                                   C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_cdrcmple                                  C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_d2iz                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+__aeabi_dadd                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_dcmpeq                                    C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_dcmpge                                    C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_dcmpgt                                    C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_dcmple                                    C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_dcmplt                                    C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__aeabi_ddiv                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+__aeabi_dmul                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+__aeabi_drsub                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_dsub                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_f2d                                       C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_i2d                                       C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_idiv0                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+__aeabi_l2d                                       C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_ldiv0                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+__aeabi_ui2d                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__aeabi_uidiv                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+__aeabi_ul2d                                      C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__cmpdf2                                          C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__div0                                            C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_dvmd_tls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+__divdf3                                          C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__entry                                           C:\Kevin\source\test\Hello\obj_Sxx\init.o
+__eqdf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__errno                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+__extendsfdf2                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__fixdfsi                                         C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_fixdfsi.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__floatdidf                                       C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__floatsidf                                       C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__floatundidf                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__floatunsidf                                     C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+__fp_lock_all                                     C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__fp_unlock_all                                   C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__gccmain                                         C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+__gedf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__gtdf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__lc_ctype                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+__ledf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+__locale_charset                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+__ltdf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__malloc_av_                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_current_mallinfo                         C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_lock                                     C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_max_sbrked_mem                           C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+__malloc_max_total_mem                            C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+__malloc_sbrk_base                                C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_top_pad                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_trim_threshold                           C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__malloc_unlock                                   C:\PAXPAY~2\build\gcc410\lib/libc.a(mlock.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+__mb_cur_max                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+__mcmp                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__mdiff                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__mlocale_changed                                 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+__mprec_bigtens                                   C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__mprec_tens                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__mprec_tinytens                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+__muldf3                                          C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_muldivdf3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__nedf2                                           C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_cmpdf2.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__nlocale_changed                                 C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+__sclose                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__sfmoreglue                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__sfp                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__sfp_lock_acquire                                C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+__sfp_lock_release                                C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+__sfvwrite                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__sinit                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__sinit_lock_acquire                              C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__sinit_lock_release                              C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__smakebuf                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+__sread                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__sseek                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__subdf3                                          C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_addsubdf3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+__swrite                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+__swsetup                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+__udivsi3                                         C:\PAXPAY~2\build\gcc410\lib/libgcc.a(_udivsi3.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_b2d                                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_calloc_r                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_cleanup                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+_cleanup_r                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+_close                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+_close_r                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+_d2b                                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_dtoa_r                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+_end                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+_exit                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_fclose_r                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+_free_r                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+_fstat                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+_fstat_r                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+_fwalk                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+_fwalk_reent                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(fwalk.o)
+_getkey                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+_getpid                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_gettimeofday                                     C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_global_impure_ptr                                C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+_hi0bits                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_i2b                                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_impure_ptr                                       C:\PAXPAY~2\build\gcc410\lib/libc.a(impure.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(errno.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wsetup.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+_kill                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_link                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_lo0bits                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_localeconv_r                                     C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+_lseek                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+_lseek_r                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+_lshift                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_malloc_r                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+_malloc_trim_r                                    C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+_mprec_log10                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_multadd                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_multiply                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_open                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_pow5mult                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+_raise                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_ratio                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_read                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+_read_r                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+_realloc_r                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+_reclaim_reent                                    C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+_rename                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_s2b                                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_sbrk                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+_sbrk_r                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(freer.o)
+_setlocale_r                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+_sprintf_r                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+_stat                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_swiclose                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_swilseek                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_swiopen                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_swiread                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_swiwrite                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_system                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_times                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_ulp                                              C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+_unlink                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+_vfprintf_r                                       C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+_vsnprintf_r                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+_wcrtomb_r                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+_wcsrtombs_r                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+_wctomb_r                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+_wrapup_reent                                     C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+_write                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+_write_r                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(stdio.o)
+cleanup_glue                                      C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+close                                             C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+des                                               C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+end                                               C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+errno                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(reent.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(readr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(lseekr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fstatr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(closer.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(writer.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(sbrkr.o)
+event_main                                        C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\init.o
+ex_open                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+fclose                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+fexist                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+fflush                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(fflush.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fclose.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+filesize                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+freesize                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+g_SWI_NUM                                         C:\Kevin\source\test\Hello\obj_Sxx\init.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+g_param                                           C:\Kevin\source\test\Hello\obj_Sxx\init.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+getkey                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+glParam                                           C:\Kevin\source\test\Hello\obj_Sxx\init.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+initialise_monitor_handles                        C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+isatty                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(makebuf.o)
+isinf                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isinf.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+isnan                                             C:\PAXPAY~2\build\gcc410\lib/libc.a(s_isnan.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+kbbeef                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+kbflush                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+kbhit                                             C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+kblight                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+kbmute                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+kbsound                                           C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+localeconv                                        C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+main                                              C:\Kevin\source\test\Hello\obj_Sxx\main.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+main_entry                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\init.o
+memchr                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(memchr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+memcmp                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(memcmp.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+memcpy                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(memcpy.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(mprec.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(dtoa.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+memmove                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(memmove.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(reallocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(fvwrite.o)
+memset                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(memset.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(callocr.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(findfp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+open                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+read                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+remove                                            C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_GetMatrixDot                                    C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_ModemInfo                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_PortClose                                       C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_PortOpen                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_PortRecv                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_PortSend                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_SramTest                                        C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_SystemInit                                      C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\init.o
+s_ctors                                           C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_dtors                                           C:\Kevin\source\test\Hello\obj_Sxx\CppInit.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+s_recall                                          C:\Kevin\source\test\Hello\obj_Sxx\init.o
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+seek                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+setlocale                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+sprintf                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(sprintf.o)
+                                                  C:\Kevin\source\test\Hello\obj_Sxx\main.o
+strcmp                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(strcmp.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(locale.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+strlen                                            C:\PAXPAY~2\build\gcc410\lib/libc.a(strlen.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(syscalls.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(wctomb_r.o)
+                                                  C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+tell                                              C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+truncate                                          C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+vfprintf                                          C:\PAXPAY~2\build\gcc410\lib/libc.a(vfprintf.o)
+vsnprintf                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(vsnprintf.o)
+                                                  C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)
+wcrtomb                                           C:\PAXPAY~2\build\gcc410\lib/libc.a(wcrtomb.o)
+wcsrtombs                                         C:\PAXPAY~2\build\gcc410\lib/libc.a(wcsrtombs.o)
+write                                             C:\PAXPAY~2\postype\Sxx/libs80api.a(dll.o)

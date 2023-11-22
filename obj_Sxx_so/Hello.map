@@ -1,0 +1,143 @@
+Archive member included because of file (symbol)
+
+C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a(soentry_sxx.o)
+                              (--whole-archive)
+C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a(initso_sxx.o)
+                              (--whole-archive)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000094                . = (0x0 + SIZEOF_HEADERS)
+
+.hash           0x00000094       0xc8
+ *(.hash)
+ .hash          0x00000094       0xc8 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+
+.dynsym         0x0000015c      0x1f0
+ *(.dynsym)
+ .dynsym        0x0000015c      0x1f0 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+
+.dynstr         0x0000034c      0x10c
+ *(.dynstr)
+ .dynstr        0x0000034c      0x10c C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.dyn        0x00000458       0x18
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text.main
+                0x00000458       0x18 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rel.plt        0x00000470       0x48
+ *(.rel.plt)
+ .rel.plt       0x00000470       0x48 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+
+.eh_frame_hdr
+
+.entry_init
+ *(.entry_init)
+
+.text           0x000004b8      0x2f8
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.s_ctors  0x000004b8        0x4 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+                0x000004b8                s_ctors
+ .text.s_dtors  0x000004bc        0x4 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+                0x000004bc                s_dtors
+ .text.event_main
+                0x000004c0       0x10 C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+                0x000004c0                event_main
+ .text.main     0x000004d0      0x12c C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+                0x000004d0                main
+ .text          0x000005fc       0x64 C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a(soentry_sxx.o)
+                0x00000620                event_main_entry
+                0x00000638                main_entry
+ .text          0x00000660        0xc C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a(initso_sxx.o)
+                0x00000660                __entry
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ *(.glue_7)
+ *(.vfp11_veneer)
+ *(.rodata.str1.4)
+ .rodata.str1.4
+                0x0000066c       0x3f C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+                                 0x40 (size before relaxing)
+ *(.rodata)
+ *fill*         0x000006ab        0x1 00000000
+ .rodata        0x000006ac      0x104 C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+                0x000006ac                AppInfo
+
+.plt            0x000007b0       0x80
+ *(.plt)
+ .plt           0x000007b0       0x80 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+
+.got            0x00000830       0x30
+ *(.got.plt)
+ .got.plt       0x00000830       0x30 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+                0x00000830                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+
+.data           0x00000860        0x0
+                0x00000860                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ *(.gnu.linkonce.d.*personality*)
+
+.dynamic        0x00000860       0xa8
+ .dynamic       0x00000860       0xa8 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+                0x00000860                _DYNAMIC
+
+.ctors          0x00000908        0x0
+                0x00000908                __CTOR_LIST__ = .
+ *(.ctors)
+                0x00000908                __CTOR_END__ = .
+
+.dtors          0x00000908        0x0
+                0x00000908                __DTOR_LIST__ = .
+ *(.dtors)
+                0x00000908                __DTOR_END__ = .
+                0x00000908                __bss_start__ = .
+
+.bss            0x00000908        0x0
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ *(COMMON)
+                0x00000908                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00000908                __bss_end__ = .
+                0x00000908                end = .
+                0x00000908                _end = .
+LOAD C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+LOAD C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+START GROUP
+LOAD C:\PAXPAY~2\postype\Sxx-SO/libsxxapi.so
+LOAD C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a
+LOAD C:\PAXPAY~2\build\gcc410\lib/libgcc.a
+END GROUP
+OUTPUT(C:\Kevin\source\test\Hello\obj_Sxx_so\Hello.elf elf32-littlearm)
+
+.comment        0x00000000       0x36
+ .comment       0x00000000       0x12 C:\Kevin\source\test\Hello\obj_Sxx_so\CppInit.o
+ .comment       0x00000012       0x12 C:\Kevin\source\test\Hello\obj_Sxx_so\main.o
+ .comment       0x00000024       0x12 C:\PAXPAY~2\postype\Sxx-SO\InitSo_Sxx.a(soentry_sxx.o)
